@@ -1,4 +1,4 @@
-To try out. Make sure you have docker installed, then:
+To try make sure you have docker installed, then:
 
     cd buildbot-master
     ./run.sh
